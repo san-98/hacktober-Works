@@ -1,3 +1,3 @@
 # hacktober-Works
-Hello '\n' '<br>'
+Hello<br>
 Welcome
